@@ -1,13 +1,8 @@
-﻿MSAP GIMPO-FTK 단독배포
-
-제작자 : Rusion 루션
+제작자 : Rusion 루션 / 플심죠아 / 김성호
 
 =====================
 
--시너리 설치 경로-
-"msapgimpo-msapgimpo" File을 복사
-~Packages/Community에 붙여넣기
-적용 끝 {오류 날 경우 개발자한테 DM혹은 쪽지}
+인스톨은 K-installer를 이용해주세요
 
 =====================
 
@@ -16,9 +11,7 @@
 하지만 이외에 위성 이미지 및 김포 공항을 모티브로 제작하였기에
 상업적 사용 문제 발생할 경우 "당사자 책임"
 
-FTK 카페 : https://cafe.naver.com/msfs2020
-
-개발자 유튜브 : https://www.youtube.com/channel/UCFrkKnVcdW6FSWm__CPFVzw
-개발자 인스타그램 : https://www.instagram.com/rusion_designs/?hl=ko
+개발자 루션 유튜브 : https://www.youtube.com/channel/UCFrkKnVcdW6FSWm__CPFVzw
+개발자 루션 인스타그램 : https://www.instagram.com/rusion_designs/?hl=ko
 
 ﻿
