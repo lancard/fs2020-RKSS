@@ -3,7 +3,7 @@
     {
       "path": "ContentInfo/thekoreans-airport-rkss-gimpo/ContentHistory.json",
       "size": 153,
-      "date": 133412216413279715
+      "date": 133412465400323469
     },
     {
       "path": "ContentInfo/thekoreans-airport-rkss-gimpo/Thumbnail.jpg",
@@ -16,7 +16,7 @@
       "date": 133409837691268669
     },
     {
-      "path": "MaterialLibs/airport-rkss-gimpo/textures/1.PNG.DDS",
+      "path": "MaterialLibs/airport-rkss-gimpo/textures/1.png.DDS",
       "size": 22020,
       "date": 133409837458502998
     },
@@ -26,12 +26,12 @@
       "date": 133409837458512981
     },
     {
-      "path": "MaterialLibs/airport-rkss-gimpo/textures/1.PNG.DDS.json",
+      "path": "MaterialLibs/airport-rkss-gimpo/textures/1.png.DDS.json",
       "size": 249,
       "date": 133409837458502998
     },
     {
-      "path": "MaterialLibs/airport-rkss-gimpo/textures/4.PNG.DDS",
+      "path": "MaterialLibs/airport-rkss-gimpo/textures/4.png.DDS",
       "size": 22020,
       "date": 133409837458522981
     },
@@ -41,12 +41,12 @@
       "date": 133409837458532989
     },
     {
-      "path": "MaterialLibs/airport-rkss-gimpo/textures/4.PNG.DDS.json",
+      "path": "MaterialLibs/airport-rkss-gimpo/textures/4.png.DDS.json",
       "size": 248,
       "date": 133409837458522981
     },
     {
-      "path": "MaterialLibs/airport-rkss-gimpo/textures/5.PNG.DDS",
+      "path": "MaterialLibs/airport-rkss-gimpo/textures/5.png.DDS",
       "size": 22020,
       "date": 133409837458542990
     },
@@ -56,7 +56,7 @@
       "date": 133409837458542990
     },
     {
-      "path": "MaterialLibs/airport-rkss-gimpo/textures/5.PNG.DDS.json",
+      "path": "MaterialLibs/airport-rkss-gimpo/textures/5.png.DDS.json",
       "size": 247,
       "date": 133409837458542990
     },
@@ -66,109 +66,109 @@
       "date": 133409838099825411
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/2GIM.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/2gim.png.DDS",
       "size": 44739384,
       "date": 133409837477902561
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/2GIM.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/2gim.png.DDS.json",
       "size": 102,
       "date": 133409837477902561
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMDOOR2.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimdoor2.png.DDS",
       "size": 44739384,
       "date": 133409837478921766
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMDOOR2.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimdoor2.png.DDS.json",
       "size": 102,
       "date": 133409837478921766
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMDOOR5.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimdoor5.png.DDS",
       "size": 44739384,
       "date": 133409837480199081
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMDOOR5.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimdoor5.png.DDS.json",
       "size": 102,
       "date": 133409837480199081
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMRODE1.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimrode1.png.DDS",
       "size": 44739384,
       "date": 133409837480976383
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMRODE1.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimrode1.png.DDS.json",
       "size": 102,
       "date": 133409837480976383
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMROOF1.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimroof1.png.DDS",
       "size": 44739384,
       "date": 133409837481827446
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMROOF1.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimroof1.png.DDS.json",
       "size": 102,
       "date": 133409837481827446
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMROOF2.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimroof2.png.DDS",
       "size": 44739384,
       "date": 133409837482617947
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/GIMROOF2.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/gimroof2.png.DDS.json",
       "size": 102,
       "date": 133409837482617947
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/SOLAR POWER MINI.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/solar power mini.png.DDS",
       "size": 44739384,
       "date": 133409837484141621
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/SOLAR POWER MINI.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/solar power mini.png.DDS.json",
       "size": 102,
       "date": 133409837484141621
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/SOLAR POWER-1.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/solar power-1.png.DDS",
       "size": 44739384,
       "date": 133409837485243690
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/SOLAR POWER-1.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/solar power-1.png.DDS.json",
       "size": 102,
       "date": 133409837485243690
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/SOLAR POWER.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/solar power.png.DDS",
       "size": 44739384,
       "date": 133409837485837080
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/SOLAR POWER.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/solar power.png.DDS.json",
       "size": 102,
       "date": 133409837485837080
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/UV1.PNG.DDS",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/uv1.png.DDS",
       "size": 44739384,
       "date": 133409837486224990
     },
     {
-      "path": "Scenery/airport-rkss-gimpo/modellib/texture/UV1.PNG.DDS.json",
+      "path": "Scenery/airport-rkss-gimpo/modellib/texture/uv1.png.DDS.json",
       "size": 102,
       "date": 133409837486224990
     },
     {
       "path": "Scenery/airport-rkss-gimpo/scenery/RKSS.bgl",
-      "size": 278764,
-      "date": 133412216413139705
+      "size": 279038,
+      "date": 133412465400248322
     }
   ]
 }
